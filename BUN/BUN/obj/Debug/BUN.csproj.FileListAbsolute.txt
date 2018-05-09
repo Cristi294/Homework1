@@ -1,0 +1,7 @@
+C:\Users\CristianLFC\source\repos\BUN\BUN\bin\Debug\BUN.exe.config
+C:\Users\CristianLFC\source\repos\BUN\BUN\bin\Debug\BUN.exe
+C:\Users\CristianLFC\source\repos\BUN\BUN\bin\Debug\BUN.pdb
+C:\Users\CristianLFC\source\repos\BUN\BUN\obj\Debug\BUN.csprojResolveAssemblyReference.cache
+C:\Users\CristianLFC\source\repos\BUN\BUN\obj\Debug\BUN.csproj.CoreCompileInputs.cache
+C:\Users\CristianLFC\source\repos\BUN\BUN\obj\Debug\BUN.exe
+C:\Users\CristianLFC\source\repos\BUN\BUN\obj\Debug\BUN.pdb
